@@ -4,7 +4,7 @@ import com.sun.jna.Native;
 
 public class DataDriver {
 
-    private static final String LIB_NAME = "DataFeeder";
+    private static final String LIB_NAME = "datadriver";
     private DataDriverLibrary instance;
 
 
